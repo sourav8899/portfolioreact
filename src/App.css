@@ -201,7 +201,13 @@ img {
     margin-bottom: var(--mb-3);
   }
 }
+.makeflex{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  
 
+}
 @media screen and (max-width: 576px) {
 }
 
